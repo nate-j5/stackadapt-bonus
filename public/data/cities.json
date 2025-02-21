@@ -1,0 +1,92 @@
+[
+  {
+    "city": "Austin",
+    "state": "Texas",
+    "latitude": 30.2672,
+    "longitude": -97.7431,
+    "population": 964254,
+    "popular_sectors": [
+      {
+        "name": "Traditional Advertising",
+        "economy_percentage": 75
+      },
+      {
+        "name": "Digital Advertising",
+        "economy_percentage": 25
+      }
+    ],
+    "accuracy_estimate": 96
+  },
+  {
+    "city": "San Francisco",
+    "state": "California",
+    "latitude": 37.7749,
+    "longitude": -122.4194,
+    "population": 873965,
+    "popular_sectors": [
+      {
+        "name": "Traditional Advertising",
+        "economy_percentage": 40
+      },
+      {
+        "name": "Digital Advertising",
+        "economy_percentage": 60
+      }
+    ],
+    "accuracy_estimate": 95
+  },
+  {
+    "city": "London",
+    "state": "England",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "population": 9002488,
+    "popular_sectors": [
+      {
+        "name": "Traditional Advertising",
+        "economy_percentage": 80
+      },
+      {
+        "name": "Digital Advertising",
+        "economy_percentage": 20
+      }
+    ],
+    "accuracy_estimate": 93
+  },
+  {
+    "city": "Buenos Aires",
+    "state": "Argentina",
+    "latitude": -34.6037,
+    "longitude": -58.3816,
+    "population": 2891082,
+    "popular_sectors": [
+      {
+        "name": "Traditional Advertising",
+        "economy_percentage": 93
+      },
+      {
+        "name": "Digital Advertising",
+        "economy_percentage": 7
+      }
+    ],
+    "accuracy_estimate": 92
+  },
+  {
+    "city": "Toronto",
+    "state": "Canada",
+    "latitude": 43.65107,
+    "longitude": -79.347015,
+    "population": 2731571,
+    "popular_sectors": [
+      {
+        "name": "Traditional Advertising",
+        "economy_percentage": 63
+      },
+      {
+        "name": "Digital Advertising",
+        "economy_percentage": 37
+      }
+    ],
+    "accuracy_estimate": 94
+  }
+]

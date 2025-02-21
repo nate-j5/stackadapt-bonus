@@ -1,8 +1,8 @@
-## StackAdapt Map Concept
+## StackAdapt Ad Market Map 
 
 This concept project presents mock advertising metrics for a given market.
 
-Link: [Live Demo](https://replicant-project.onrender.com/)  
+Link: [Live Demo](https://stackadapt-bonus.onrender.com)  
 
 > Note: Please allow up to 30 seconds for the site to load - it's hosted for free. 
 
